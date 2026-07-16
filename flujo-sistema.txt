@@ -1,0 +1,14 @@
+1. El ciudadano ingresa a la plataforma y registra una causa social o problemática comunitaria.
+
+
+2. La plataforma almacena la causa y genera un enlace único para compartirla.
+
+
+3. Otros ciudadanos visitan el enlace y registran su apoyo con un clic.
+
+4.
+ El sistema contabiliza automáticamente los apoyos recibidos en tiempo real.
+
+5. 
+Al alcanzar una meta o finalizar el plazo, el sistema genera automáticamente 
+un documento PDF con el respaldo consolidado para presentar ante las autoridad

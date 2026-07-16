@@ -1,0 +1,35 @@
+Entidad: Causa
+
+
+id: Identificador único de la causa.
+
+
+Titulo: Nombre corto de la problemática.
+
+
+Descripcion: Detalle de la situación.
+
+
+Fecha: Registro temporal de creación.
+
+
+Uso: Almacena la intención inicial del ciudadano y el motivo de la petición.
+
+
+
+Entidad: Apoyo
+
+
+id: Identificador único del respaldo.
+
+
+causa_id: Relación con la causa apoyada.
+
+
+Nombre: Identificación del ciudadano.
+
+
+Fecha: Registro del momento del apoyo.
+
+
+Uso: Permite contabilizar el alcance y la fuerza colectiva de la petición

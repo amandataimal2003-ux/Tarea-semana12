@@ -1,0 +1,10 @@
+Evento: Registro de un nuevo apoyo a una causa existente.
+
+
+Mensaje (vía Telegram): "¡Nueva adhesión! La causa [Título de la causa] acaba de
+recibir un nuevo respaldo ciudadano.
+"
+
+Información que NO debe enviarse por seguridad: 
+Números de identificación (cédulas), números de teléfono, direcciones exactas de domicilio o
+cualquier comentario que contenga datos personales sensibles de los firmantes.
